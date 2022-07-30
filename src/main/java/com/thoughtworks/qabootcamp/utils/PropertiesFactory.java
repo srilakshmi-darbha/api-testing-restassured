@@ -1,4 +1,4 @@
-package com.thoughtworks.qabootcamp;
+package com.thoughtworks.qabootcamp.utils;
 
 import java.io.FileReader;
 import java.io.IOException;
