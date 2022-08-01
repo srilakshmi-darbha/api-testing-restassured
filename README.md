@@ -1,2 +1,2 @@
 # api-testing-restassured
-### QA Bootcamp Aug 2022 
+### QA Bootcamp Aug 2022 batch
